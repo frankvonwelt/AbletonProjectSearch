@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AbletonProjectSearch": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\stuff\\ableton CleanGroove01"
+    }
+  }
+}
